@@ -29,6 +29,12 @@ data/export/*
 data/common/*
 data/User/*
 data/Extras/*
+!data/Evovenom/*
+!data/Kisukeurahara/*
+!data/Swordmaster/*
+!data/Drkmage/*
+!data/Darkwarrior/*
+!data/Catala/*
 libs/closetCleaner.lua
 Rename.bat
 Modes.lua
